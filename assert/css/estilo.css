@@ -1,0 +1,34 @@
+.larg{
+    width: 100%;
+}
+
+.texto{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+.margin{
+    margin-bottom: 30px;
+}
+
+
+.lado{
+    margin-left: 50px;
+}
+
+.separa{
+    display: flex;
+    margin-left: 42%;
+}
+
+.separa li{
+    list-style: none;
+}
+
+.imagem{
+    width: 80px;
+    padding: 10px;
+}
+
